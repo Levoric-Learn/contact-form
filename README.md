@@ -17,24 +17,24 @@ We highly value your contributions to the **Levoric Learn Contact Form Repositor
 
 ### 1. Report Issues
 If you notice any bugs, errors, or have ideas for improvement, you can:
-- Go to the [Issues](https://github.com/Levoric-Learn/contact-form/issues) section.
+- Go to the [Issues](https://github.com/Levoric-Learn/LevoricLearn/issues) section.
 - Click on `New Issue`.
 - Provide a clear, detailed description of the issue or suggestion.
 
 ### 2. Suggest Improvements
 Have ideas to enhance the repository or our projects? Open a discussion or submit your suggestions:
-- Navigate to the [Discussions](https://github.com/Levoric-Learn/contact-form/discussions) section.
+- Navigate to the [Discussions](https://github.com/Levoric-Learn/LevoricLearn/discussions) section.
 - Start a new discussion with your suggestion.
 - Provide as much context and detail as possible to help us understand your vision.
 
 ### 3. Fix Bugs or Add Features
 If you're a developer and want to contribute by fixing bugs or adding new features:
-- Look for issues labeled [`good first issue`](https://github.com/Levoric-Learn/contact-form/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or [`help wanted`](https://github.com/Levoric-Learn/contact-form/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22).
+- Look for issues labeled [`good first issue`](https://github.com/Levoric-Learn/LevoricLearn/issues) or [`help wanted`](https://github.com/Levoric-Learn/LevoricLearn/pulls).
 - Add your comments to let us know you're working on it.
 - Once approved, submit your changes following the contribution guidelines.
 
 ### 4. Review and Test
-- Review open pull requests in the repository at [Pull Requests](https://github.com/Levoric-Learn/contact-form/pulls).
+- Review open pull requests in the repository at [Pull Requests](https://github.com/Levoric-Learn/LevoricLearn/pulls).
 - Test the changes locally if you have access to a development environment.
 - Provide constructive feedback in the comments section of the pull request.
 
@@ -60,8 +60,8 @@ Join our community discussions to:
 
 - [Levoric Learn Contact Form Repository](https://github.com/Levoric-Learn/contact-form)
 - [Issues](https://github.com/Levoric-Learn/contact-form/issues)
-- [Discussions](https://github.com/Levoric-Learn/contact-form/discussions)
-- [Pull Requests](https://github.com/Levoric-Learn/contact-form/pulls)
+- [Discussions](https://github.com/Levoric-Learn/LevoricLearn/discussions)
+- [Pull Requests](https://github.com/Levoric-Learn/LevoricLearn/pulls)
 - **Join Our Community on Discord**: [Levoric Learn Discord Server](https://discord.gg/WGhvfQ4eRb)
 
 ---
