@@ -62,7 +62,7 @@ Join our community discussions to:
 - [Issues](https://github.com/Levoric-Learn/contact-form/issues)
 - [Discussions](https://github.com/Levoric-Learn/LevoricLearn/discussions)
 - [Pull Requests](https://github.com/Levoric-Learn/LevoricLearn/pulls)
-- **Join Our Community on Discord**: [Levoric Learn Discord Server](https://discord.gg/WGhvfQ4eRb)
+- **Join Our Community on Discord**: [Discord](https://discord.gg/WGhvfQ4eRb)
 
 ---
 
