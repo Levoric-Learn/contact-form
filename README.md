@@ -59,9 +59,9 @@ Join our community discussions to:
 ## Repository and Community Links
 
 - [Levoric Learn Contact Form Repository](https://github.com/Levoric-Learn/contact-form)
-- [Issues](https://github.com/Levoric-Learn/contact-form/issues)
-- [Discussions](https://github.com/Levoric-Learn/LevoricLearn/discussions)
-- [Pull Requests](https://github.com/Levoric-Learn/LevoricLearn/pulls)
+- [Issues](https://github.com/developerlevoriclearn/content/issues)
+- [Discussions](https://github.com/orgs/developerlevoriclearn/discussions)
+- [Pull Requests](https://github.com/developerlevoriclearn/content/pulls)
 - **Join Our Community on Discord**: [Join Now](https://discord.gg/WGhvfQ4eRb)
 
 ---
