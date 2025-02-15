@@ -17,24 +17,24 @@ We highly value your contributions to the **Levoric Learn Contact Form Repositor
 
 ### 1. Report Issues
 If you notice any bugs, errors, or have ideas for improvement, you can:
-- Go to the [Issues](https://github.com/Levoric-Learn/LevoricLearn/issues) section.
+- Go to the [Issues](https://github.com/developerlevoriclearn/content/issues) section.
 - Click on `New Issue`.
 - Provide a clear, detailed description of the issue or suggestion.
 
 ### 2. Suggest Improvements
 Have ideas to enhance the repository or our projects? Open a discussion or submit your suggestions:
-- Navigate to the [Discussions](https://github.com/Levoric-Learn/LevoricLearn/discussions) section.
+- Navigate to the [Discussions](https://github.com/orgs/developerlevoriclearn/discussions) section.
 - Start a new discussion with your suggestion.
 - Provide as much context and detail as possible to help us understand your vision.
 
 ### 3. Fix Bugs or Add Features
 If you're a developer and want to contribute by fixing bugs or adding new features:
-- Look for issues labeled [`good first issue`](https://github.com/Levoric-Learn/LevoricLearn/issues) or [`help wanted`](https://github.com/Levoric-Learn/LevoricLearn/pulls).
+- Look for issues labeled [`good first issue`](https://github.com/developerlevoriclearn/content/issues) or [`help wanted`](https://github.com/developerlevoriclearn/content/pulls).
 - Add your comments to let us know you're working on it.
 - Once approved, submit your changes following the contribution guidelines.
 
 ### 4. Review and Test
-- Review open pull requests in the repository at [Pull Requests](https://github.com/Levoric-Learn/LevoricLearn/pulls).
+- Review open pull requests in the repository at [Pull Requests]([https://github.com/Levoric-Learn/LevoricLearn/pulls](https://github.com/developerlevoriclearn/content/pulls)).
 - Test the changes locally if you have access to a development environment.
 - Provide constructive feedback in the comments section of the pull request.
 
